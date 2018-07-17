@@ -1,5 +1,7 @@
 footer {
   background-color:#f1f7fc;
+  border-top:solid;
+  margin-top:10px;
 }
 
 main {
